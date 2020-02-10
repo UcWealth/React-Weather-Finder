@@ -1,3 +1,3 @@
 # React-Weather-Finder
 
-## Hosted at: [Weather Finder](https://ucwealth.github.io/React-Weather-Finder/)
+To use this app, clone it to your system and run npm install from your terminal.
