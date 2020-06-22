@@ -15,6 +15,7 @@ class App extends React.Component {
     description: undefined,
     error: undefined
   }
+  // ToDo: Do something about this!
   getWeather = async (e) => {
     e.preventDefault();
     const city = e.target.elements.city.value;
